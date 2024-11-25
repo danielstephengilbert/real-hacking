@@ -24,3 +24,4 @@
 - Apparently, LLMNR provides local name resolution, and can be hacked.
 - Would lookup PoC and test exploitation, but need to configure my lab first.
 - May take a breadth-first survey of the other packets before explore LLMNR.
+
