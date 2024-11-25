@@ -1,0 +1,3 @@
+name resolution without a DNS server, leaning on the local network hosts
+can potentially suffer from MITM which can impersonate and poison DNS
+
