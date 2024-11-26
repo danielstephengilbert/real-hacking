@@ -1,0 +1,3 @@
+router advertisements are sent from the router to provide hosts with important
+network info.
+

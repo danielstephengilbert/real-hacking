@@ -1,0 +1,2 @@
+Cisco AutoQoS (AQoS) is a product that automates the deployment of Quality of
+Service (QoS) policies.

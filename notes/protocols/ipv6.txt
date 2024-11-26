@@ -1,2 +1,4 @@
-fe80:: = link local prefixes (APIPA)
+fe80::    = local network addresses
+ff02::1   = all nodes
+ff02::16  = all MLDv2-capable routers
 
