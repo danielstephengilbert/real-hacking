@@ -1,0 +1,25 @@
+10pm - 12am
+- Found my driving motivator, and decided to embrace it.
+- Wrote a guiding document.
+- Determined that "real-world" hacking is the only hacking worth pursuing.
+- Brainstormed clever ways to survey the Internet for common infrastructure.
+- The goal would be to learn how to hack the technology with the greatest ROI.
+- Keep in mind, this is not to do so illegally, but rather to know how.
+- Signed up for a Shodan account.
+- Determined that money is required to get started.
+- Holding off on Shodan for now.
+- Thought of ways to protect myself while performing scanning and enumeration.
+- Re-visited Tor, and researched how to proxy traffic such as nmap through Tor.
+- Learned about data leaks while using tools on Tor.
+- Thought of different ways to configure my setup either at home or otherwise.
+- Once I saw the leaked traffic problem about Tor, I decided to explore it more.
+- Decided before I cut my teeth with that, I need to learn clearnet traffic.
+- Opened Wireshark on my host, and started capturing all the data for my system.
+- Noticed a lot of IPv6 traffic.
+- Learned how to disable IPv6 in my host OS.
+- Left IPv6 enabled so I could learn more about the traffic that was being sent.
+- The first packet in the capture was an LLMNR protocol packet.
+- Learned about LLMNR and why it's potentially a security issue.
+- Apparently, LLMNR provides local name resolution, and can be hacked.
+- Would lookup PoC and test exploitation, but need to configure my lab first.
+- May take a breadth-first survey of the other packets before explore LLMNR.
